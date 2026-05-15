@@ -1,0 +1,10 @@
+jupyterlab
+notebook
+ipykernel
+pandas
+numpy
+scikit-learn
+datasets
+sentence-transformers
+chromadb
+pyarrow
