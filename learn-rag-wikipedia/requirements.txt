@@ -1,0 +1,11 @@
+jupyterlab
+notebook
+ipykernel
+pandas
+numpy
+scikit-learn
+sentence-transformers
+chromadb
+pyarrow
+openai
+python-dotenv

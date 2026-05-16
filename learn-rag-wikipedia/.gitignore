@@ -1,4 +1,5 @@
 .venv/
 chroma_db/
+data/
 .ipynb_checkpoints/
-*.zip
+.env
